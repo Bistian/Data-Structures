@@ -1,0 +1,6 @@
+﻿  DTSLab2.cpp
+c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(55): error C2143: syntax error: missing ';' before '->'
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(54): note: while compiling class template member function 'void BinaryHeap<char>::clear(void)'
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\dtslab2.cpp(112): note: see reference to function template instantiation 'void BinaryHeap<char>::clear(void)' being compiled
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\dtslab2.cpp(70): note: see reference to class template instantiation 'BinaryHeap<char>' being compiled
+c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(55): error C2059: syntax error: '->'

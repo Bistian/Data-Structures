@@ -1,0 +1,32 @@
+﻿  DTSLab2.cpp
+c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(38): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(32): note: while compiling class template member function 'Type BinaryHeap<Type>::dequeue(void)'
+          with
+          [
+              Type=char
+          ]
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\dtslab2.cpp(116): note: see reference to function template instantiation 'Type BinaryHeap<Type>::dequeue(void)' being compiled
+          with
+          [
+              Type=char
+          ]
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\dtslab2.cpp(70): note: see reference to class template instantiation 'BinaryHeap<char>' being compiled
+c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(43): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(48): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\dynarray.h(87): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\dynarray.h(73): note: while compiling class template member function 'void DynArray<Type>::append(const Type &)'
+          with
+          [
+              Type=char
+          ]
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(13): note: see reference to function template instantiation 'void DynArray<Type>::append(const Type &)' being compiled
+          with
+          [
+              Type=char
+          ]
+  c:\users\sebas\onedrive\desktop\binaryheap\binaryheap\binaryheap.h(8): note: see reference to class template instantiation 'DynArray<Type>' being compiled
+          with
+          [
+              Type=char
+          ]
+  BinaryHeap.vcxproj -> C:\Users\sebas\OneDrive\Desktop\BinaryHeap\x64\Debug\BinaryHeap.exe
